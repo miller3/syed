@@ -1,0 +1,11 @@
+S(R)- solar Reflection
+SS (n) -Solar radiation to the surface of atmosphere 
+
+SR(n) = 0.8*1414.9*cosɵz(τ+τ0)(1+cosɸ/2𝟐) 
+
+ƍ- Reflection coefficient (Average), 
+ƍ=0.85 clean snow,
+ƍ=0,02 water at 12am (Afternoon section), 
+In the morning and evening section β is small ƍ=0.8, 
+
+ƍ= 0, 2 Grass. 
